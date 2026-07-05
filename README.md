@@ -7,7 +7,6 @@
 
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 📊 I clean, analyze, and visualize data to help teams make better decisions
-- 🔍 Worked on cancellation trends, waitlist bottlenecks, and workforce attrition
 - 🌱 Currently learning ETL and data engineering concepts
 - 🎯 Open to Data Analyst / Business Analyst roles
 - 📧 Reach me anytime at **hemantsonbarse@gmail.com**
